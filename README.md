@@ -1,4 +1,4 @@
-# Project Title: Start with a clear, engaging title like End to End SQL Portfolio Project.
+# Project Title: End-to-End SQL Project - Bookstore Data Analysis
 Project Overview: Briefly describe what the project does. For this bookstore project, mention it's about designing a database to extract meaningful insights from data.
 Data Sources: List the datasets used. In this case, mention the three CSV files (Books, Customers, Orders).
 Detail the skills demonstrated, such as SQL queries, JOINS, Aggregations, CTEs, and Window Functions.
